@@ -81,11 +81,16 @@ Scanner sc = new Scanner(System.in);
             in.read(c);
 ```
 # 运行结果
-控制台运行结果
-![](https://github.com/shenlu-hub/fantastic-system/blob/main/%E6%8E%A7%E5%88%B6%E5%8F%B0%E7%BB%93%E6%9E%9C.JPG)
-其中让程序查找“三”这个字，程序会给出反馈，学生信息用键盘录入
-A文件中显示结果
-![]()
+- 控制台运行结果  
+![](https://github.com/shenlu-hub/fantastic-system/blob/main/%E6%8E%A7%E5%88%B6%E5%8F%B0%E7%BB%93%E6%9E%9C.JPG)  
+其中让程序查找“三”这个字，程序会给出反馈，学生信息用键盘录入  
+- A文件中显示结果  
+![](https://github.com/shenlu-hub/fantastic-system/blob/main/%E6%96%87%E4%BB%B6.JPG)  
+可以看到学生信息和诗词的处理都成功的读取并写进去了
+# 实验感想
+- 通过这次实验我掌握了java中文件的输入输出流的写法，虽然一开始诗词的符号总是不能成功写入，但在同学的帮助下终于解决了
+- 弄清了读取文件和写入文件的区别
+- 虽然程序可以按照我要求的情况运行，但是放在eclipse中依旧存在报错，我改了很长时间没改过来，还需要以后继续学习，提高自己的编程实战水平
 
 
 
