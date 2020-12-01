@@ -1,4 +1,4 @@
-# fantastic-system
+
 # java第五次实验
   计G202班 2020322096 申麓
 # 实验目的
