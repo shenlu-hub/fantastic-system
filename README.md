@@ -82,6 +82,9 @@ Scanner sc = new Scanner(System.in);
 ```
 # 运行结果
 控制台运行结果
+![](https://github.com/shenlu-hub/fantastic-system/blob/main/%E6%8E%A7%E5%88%B6%E5%8F%B0%E7%BB%93%E6%9E%9C.JPG)
+其中让程序查找“三”这个字，程序会给出反馈，学生信息用键盘录入
+A文件中显示结果
 ![]()
 
 
